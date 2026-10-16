@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17191F"/><stop offset="1" stop-color="#252A30"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <g fill="#D8D5CD">
+    <rect x="68" y="38" width="4" height="4"/><rect x="155" y="77" width="4" height="4"/><rect x="242" y="30" width="4" height="4"/>
+    <rect x="348" y="60" width="4" height="4"/><rect x="470" y="34" width="4" height="4"/><rect x="598" y="64" width="4" height="4"/>
+    <rect x="740" y="27" width="4" height="4"/><rect x="860" y="54" width="4" height="4"/><rect x="1015" y="31" width="4" height="4"/>
+    <rect x="1110" y="79" width="4" height="4"/><rect x="930" y="103" width="4" height="4"/><rect x="285" y="110" width="4" height="4"/>
+  </g>
+  <rect x="80" y="185" width="80" height="175" fill="#292D35"/><rect x="170" y="135" width="105" height="225" fill="#292D35"/>
+  <rect x="285" y="170" width="72" height="190" fill="#292D35"/><rect x="365" y="112" width="105" height="248" fill="#292D35"/>
+  <rect x="480" y="158" width="78" height="202" fill="#292D35"/><rect x="570" y="132" width="115" height="228" fill="#292D35"/>
+  <rect x="697" y="180" width="70" height="180" fill="#292D35"/><rect x="778" y="120" width="110" height="240" fill="#292D35"/>
+  <rect x="900" y="160" width="80" height="200" fill="#292D35"/><rect x="990" y="100" width="125" height="260" fill="#292D35"/>
+  <g fill="#91A895">
+    <rect x="96" y="207" width="10" height="16"/><rect x="128" y="207" width="10" height="16"/><rect x="190" y="158" width="12" height="17"/><rect x="225" y="158" width="12" height="17"/><rect x="258" y="158" width="12" height="17"/>
+    <rect x="305" y="192" width="10" height="14"/><rect x="385" y="135" width="12" height="18"/><rect x="420" y="135" width="12" height="18"/><rect x="450" y="135" width="12" height="18"/>
+    <rect x="594" y="153" width="12" height="18"/><rect x="630" y="153" width="12" height="18"/><rect x="656" y="153" width="12" height="18"/>
+    <rect x="802" y="140" width="12" height="18"/><rect x="838" y="140" width="12" height="18"/><rect x="1012" y="122" width="12" height="18"/><rect x="1050" y="122" width="12" height="18"/><rect x="1080" y="122" width="12" height="18"/>
+  </g>
+  <g fill="#C5A477">
+    <rect x="190" y="195" width="12" height="17"/><rect x="225" y="195" width="12" height="17"/><rect x="385" y="174" width="12" height="18"/><rect x="420" y="174" width="12" height="18"/>
+    <rect x="594" y="192" width="12" height="18"/><rect x="630" y="192" width="12" height="18"/><rect x="802" y="178" width="12" height="18"/><rect x="838" y="178" width="12" height="18"/>
+    <rect x="1012" y="160" width="12" height="18"/><rect x="1050" y="160" width="12" height="18"/>
+  </g>
+  <rect x="0" y="300" width="1200" height="60" fill="#0b0920"/>
+  <path d="M0 321H1200 M0 345H1200 M160 300V360 M320 300V360 M480 300V360 M640 300V360 M800 300V360 M960 300V360 M1120 300V360" stroke="#34215d" stroke-width="2"/>
+  <rect x="290" y="82" width="620" height="126" fill="#0b0920" stroke="#91A895" stroke-width="4"/>
+  <rect x="302" y="94" width="596" height="102" fill="#292D35" stroke="#C5A477" stroke-width="2"/>
+  <text x="600" y="139" text-anchor="middle" font-family="monospace" font-size="34" font-weight="bold" fill="#91A895">SRIVATHSAN.exe</text>
+  <text x="600" y="173" text-anchor="middle" font-family="monospace" font-size="17" fill="#D8D5CD">PLAYER 001  //  FULL-STACK QUEST LOG</text>
+  <rect x="106" y="282" width="28" height="18" fill="#C5A477"/><rect x="112" y="264" width="16" height="18" fill="#C5A477"/>
+  <rect x="108" y="252" width="24" height="12" fill="#91A895"/><rect x="114" y="240" width="12" height="12" fill="#91A895"/>
+  <rect x="108" y="282" width="6" height="18" fill="#D8D5CD"/><rect x="128" y="282" width="6" height="18" fill="#D8D5CD"/>
+  <text x="600" y="337" text-anchor="middle" font-family="monospace" font-size="12" fill="#a9a0d4">BUILD • SOLVE • LEVEL UP</text>
+</svg>
